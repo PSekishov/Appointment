@@ -22,6 +22,6 @@ Route::get('/service', 'ServiceController@service')->name('service');
 Route::get('/contact', 'ContactController@contact')->name('contact');
 Route::get('/cabinet','CabinetController@cabinet')->name('cabinet');
 
-
+Route::get('/admin', 'Admin\AdminController@index');
 
 
