@@ -1,0 +1,14 @@
+body{
+    /*background-color: #dddddd;*/
+    display: flex;
+    flex-direction: column;
+}
+
+body, html{ height: 100%; }
+
+.mainContent{ flex-grow: 1; }
+
+
+
+
+

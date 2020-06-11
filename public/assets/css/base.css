@@ -1,0 +1,11 @@
+@import 'mainAppointment.css';
+
+@import 'header.css';
+
+@import "home.css";
+@import "about.css";
+@import "service.css";
+@import "contact.css";
+@import 'cabinet.css';
+
+@import "footer.css";
